@@ -4,7 +4,7 @@
 
 Criar uma api
 
-- [ ] Iniciar o projeto `yarn init -y`;
+- [x] Iniciar o projeto `yarn init -y`;
 - [ ] Instalar as dependências `yarn add express cors axios ejs`;
 - [ ] Criar uma rota para acessar API;
 - [ ] Servir a API;
